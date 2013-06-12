@@ -319,5 +319,15 @@
 		"github": "ricardoalcocer/actionbarclone",
 		"url": "https://github.com/ricardoalcocer/actionbarclone",
 		"json": "https://raw.github.com/ricardoalcocer/actionbarclone/master/app/widgets/com.alco.headerbar/widget.json"
-	}				
+	},
+	{
+		"type": "widget",
+		"name": "ytPlayer",
+		"author": "Bob Sims",
+		"github": "bob-sims/ytPlayer",
+		"tags": ["youtube","videoplayer","streaming"],
+		"description": "Simple cross-platform Alloy Widget for Titanium Mobile, plays streaming YouTube video with native Ti.Media.VideoPlayer.",
+		"url": "https://github.com/bob-sims/ytPlayer",
+		"json": "https://raw.github.com/bob-sims/ytPlayer/master/app/widgets/ytPlayer/widget.json"
+	}
 ]
